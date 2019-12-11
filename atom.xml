@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://laoertongxue.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-12-11T03:35:37.676Z</updated>
+    <title>知鸟君</title>
+    <updated>2019-12-11T04:15:45.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://laoertongxue.github.io/"/>
     <link rel="self" href="http://laoertongxue.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个可能比较有趣的人</subtitle>
     <logo>http://laoertongxue.github.io//images/avatar.png</logo>
     <icon>http://laoertongxue.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 知鸟君</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://laoertongxue.github.io//post/hello-gridea</id>
