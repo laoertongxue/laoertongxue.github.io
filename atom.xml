@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://laoertongxue.github.io/</id>
     <title>知鸟君</title>
-    <updated>2019-12-11T04:26:04.785Z</updated>
+    <updated>2020-04-20T05:12:00.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://laoertongxue.github.io/"/>
     <link rel="self" href="http://laoertongxue.github.io//atom.xml"/>
     <subtitle>一个可能比较有趣的人</subtitle>
     <logo>http://laoertongxue.github.io//images/avatar.png</logo>
     <icon>http://laoertongxue.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 知鸟君</rights>
+    <rights>All rights reserved 2020, 知鸟君</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://laoertongxue.github.io//post/hello-gridea</id>
